@@ -12,7 +12,7 @@ It will consist of several parts with my initial idea/attempt.
 6. A toolchain to deploy each of these services to a different VPS
 7. A hand-rolled made-up-as-I-go consesnsus protocol to syncronize these multiple deployed database nodes
 
-It is called Jean Ralpio because it is in face 'the woooOOOooooOOorst'
+It is called Jean Ralpio because it is in fact 'the woooOOOooooOOorst'
 
 ![jean-ralphio](jean-ralphio.gif)
 
